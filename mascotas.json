@@ -1,0 +1,130 @@
+{
+    "10000001": {
+        "activo": true,
+        "nombre": "Max",
+        "sexo": "Masculino",
+        "especie": "Perro",
+        "raza": "Labrador",
+        "edad": 5,
+        "peso": 28.5,
+        "propietario": "38111222",
+        "historial": [
+            "2023.05.10 10.30.00",
+            "2023.06.15 11.00.00"
+        ]
+    },
+    "10000002": {
+        "activo": true,
+        "nombre": "Luna",
+        "sexo": "Femenino",
+        "especie": "Gato",
+        "raza": "Siamés",
+        "edad": 3,
+        "peso": 4.2,
+        "propietario": "40233455",
+        "historial": [
+            "2023.05.12 09.15.00"
+        ]
+    },
+    "10000003": {
+        "activo": true,
+        "nombre": "Bella",
+        "sexo": "Femenino",
+        "especie": "Perro",
+        "raza": "Caniche",
+        "edad": 7,
+        "peso": 6.8,
+        "propietario": "39128473",
+        "historial": [
+            "2023.04.20 16.45.00",
+            "2023.05.25 10.30.00"
+        ]
+    },
+    "10000004": {
+        "activo": true,
+        "nombre": "Simba",
+        "sexo": "Masculino",
+        "especie": "Gato",
+        "raza": "Persa",
+        "edad": 2,
+        "peso": 5.1,
+        "propietario": "40399284",
+        "historial": []
+    },
+    "10000005": {
+        "activo": true,
+        "nombre": "Rocky",
+        "sexo": "Masculino",
+        "especie": "Perro",
+        "raza": "Bulldog",
+        "edad": 4,
+        "peso": 22.3,
+        "propietario": "37283910",
+        "historial": [
+            "2023.06.01 14.00.00"
+        ]
+    },
+    "10000006": {
+        "activo": true,
+        "nombre": "Milo",
+        "sexo": "Masculino",
+        "especie": "Gato",
+        "raza": "Mestizo",
+        "edad": 1,
+        "peso": 3.5,
+        "propietario": "38902764",
+        "historial": []
+    },
+    "10000007": {
+        "activo": true,
+        "nombre": "Coco",
+        "sexo": "Masculino",
+        "especie": "Perro",
+        "raza": "Golden Retriever",
+        "edad": 6,
+        "peso": 30.0,
+        "propietario": "41392847",
+        "historial": [
+            "2023.03.15 11.30.00",
+            "2023.05.20 09.45.00"
+        ]
+    },
+    "10000008": {
+        "activo": true,
+        "nombre": "Lola",
+        "sexo": "Femenino",
+        "especie": "Gato",
+        "raza": "Angora",
+        "edad": 4,
+        "peso": 4.8,
+        "propietario": "40567219",
+        "historial": [
+            "2023.05.05 17.30.00"
+        ]
+    },
+    "10000009": {
+        "activo": true,
+        "nombre": "Toby",
+        "sexo": "Masculino",
+        "especie": "Perro",
+        "raza": "Beagle",
+        "edad": 2,
+        "peso": 12.5,
+        "propietario": "39384756",
+        "historial": []
+    },
+    "10000010": {
+        "activo": true,
+        "nombre": "Mía",
+        "sexo": "Femenino",
+        "especie": "Gato",
+        "raza": "Bengalí",
+        "edad": 3,
+        "peso": 4.0,
+        "propietario": "38472918",
+        "historial": [
+            "2023.04.10 10.00.00",
+            "2023.06.05 15.30.00"
+        ]
+    }
+}

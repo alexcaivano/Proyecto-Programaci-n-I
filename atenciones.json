@@ -1,0 +1,102 @@
+{
+    "2023.05.10 10.30.00": {
+        "mascota": "10000001",
+        "propietario": "38111222",
+        "motivo": "Control anual",
+        "diagnostico": "Saludable",
+        "tratamiento": "Vacuna antirrábica",
+        "costo_veterinario": 1500.0,
+        "costo_medicamentos": 1000.0,
+        "costo": 2500.0
+    },
+    "2023.06.15 11.00.00": {
+        "mascota": "10000001",
+        "propietario": "38111222",
+        "motivo": "Dolor articular",
+        "diagnostico": "Artritis incipiente",
+        "tratamiento": "Antiinflamatorio",
+        "costo_veterinario": 2000.0,
+        "costo_medicamentos": 1200.0,
+        "costo": 3200.0
+    },
+    "2023.05.12 09.15.00": {
+        "mascota": "10000002",
+        "propietario": "40233455",
+        "motivo": "Castración",
+        "diagnostico": "Pre-operatorio normal",
+        "tratamiento": "Cirugía",
+        "costo_veterinario": 3000.0,
+        "costo_medicamentos": 1500.0,
+        "costo": 4500.0
+    },
+    "2023.07.01 15.00.00": {
+        "mascota": "10000003",
+        "propietario": "39128473",
+        "motivo": "Revisión posoperatoria",
+        "diagnostico": "Buena recuperación",
+        "tratamiento": "Antibióticos",
+        "costo_veterinario": 1200.0,
+        "costo_medicamentos": 800.0,
+        "costo": 2000.0
+    },
+    "2023.07.10 13.30.00": {
+        "mascota": "10000004",
+        "propietario": "40399284",
+        "motivo": "Fiebre",
+        "diagnostico": "Infección leve",
+        "tratamiento": "Antibióticos",
+        "costo_veterinario": 1800.0,
+        "costo_medicamentos": 700.0,
+        "costo": 2500.0
+    },
+    "2023.08.05 11.15.00": {
+        "mascota": "10000005",
+        "propietario": "37283910",
+        "motivo": "Control de peso",
+        "diagnostico": "Sobrepeso leve",
+        "tratamiento": "Dieta balanceada",
+        "costo_veterinario": 1400.0,
+        "costo_medicamentos": 0.0,
+        "costo": 1400.0
+    },
+    "2023.08.20 17.45.00": {
+        "mascota": "10000006",
+        "propietario": "38902764",
+        "motivo": "Vacunación",
+        "diagnostico": "Saludable",
+        "tratamiento": "Vacuna triple felina",
+        "costo_veterinario": 1000.0,
+        "costo_medicamentos": 600.0,
+        "costo": 1600.0
+    },
+    "2023.09.02 09.50.00": {
+        "mascota": "10000007",
+        "propietario": "41392847",
+        "motivo": "Herida en pata",
+        "diagnostico": "Corte leve",
+        "tratamiento": "Curación + antibiótico",
+        "costo_veterinario": 2200.0,
+        "costo_medicamentos": 900.0,
+        "costo": 3100.0
+    },
+    "2023.09.15 16.10.00": {
+        "mascota": "10000008",
+        "propietario": "40567219",
+        "motivo": "Consulta por vómitos",
+        "diagnostico": "Malestar digestivo",
+        "tratamiento": "Dieta + antiemético",
+        "costo_veterinario": 1700.0,
+        "costo_medicamentos": 650.0,
+        "costo": 2350.0
+    },
+    "2023.10.03 14.20.00": {
+        "mascota": "10000009",
+        "propietario": "39384756",
+        "motivo": "Chequeo general",
+        "diagnostico": "Sin novedades",
+        "tratamiento": "Vitaminas",
+        "costo_veterinario": 1300.0,
+        "costo_medicamentos": 500.0,
+        "costo": 1800.0
+    }
+}

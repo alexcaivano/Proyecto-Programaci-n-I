@@ -1,0 +1,102 @@
+{
+    "38111222": {
+        "activo": true,
+        "nombre": "Juan José Galván",
+        "direccion": "Av. Siempreviva 742",
+        "email": "juan.galvan@email.com",
+        "telefonos": {
+            "principal": "1122334455",
+            "emergencia": "1198765432"
+        }
+    },
+    "40233455": {
+        "activo": true,
+        "nombre": "María Luisa Pérez",
+        "direccion": "Calle Falsa 123",
+        "email": "maria.perez@email.com",
+        "telefonos": {
+            "principal": "1155667788",
+            "emergencia": "1199887766"
+        }
+    },
+    "39128473": {
+        "activo": true,
+        "nombre": "Carlos Daniel Ruiz",
+        "direccion": "Av. Libertador 4587",
+        "email": "carlos.ruiz@email.com",
+        "telefonos": {
+            "principal": "1144556677",
+            "emergencia": "1166778899"
+        }
+    },
+    "40399284": {
+        "activo": true,
+        "nombre": "Lucía Fernández",
+        "direccion": "Calle 1234",
+        "email": "lucia.fernandez@email.com",
+        "telefonos": {
+            "principal": "1188997766",
+            "emergencia": "1155443322"
+        }
+    },
+    "37283910": {
+        "activo": true,
+        "nombre": "Martín Alejandro López",
+        "direccion": "Av. Corrientes 3456",
+        "email": "martin.lopez@email.com",
+        "telefonos": {
+            "principal": "1133445566",
+            "emergencia": "1177889900"
+        }
+    },
+    "38902764": {
+        "activo": true,
+        "nombre": "Sofía Beatriz Ramos",
+        "direccion": "Av. Santa Fe 2100",
+        "email": "sofia.ramos@email.com",
+        "telefonos": {
+            "principal": "1199887766",
+            "emergencia": "1122334455"
+        }
+    },
+    "41392847": {
+        "activo": true,
+        "nombre": "Nicolás Emiliano Gómez",
+        "direccion": "Av. Rivadavia 7890",
+        "email": "nicolas.gomez@email.com",
+        "telefonos": {
+            "principal": "1166554433",
+            "emergencia": "1144332211"
+        }
+    },
+    "40567219": {
+        "activo": true,
+        "nombre": "Valentina Herrera",
+        "direccion": "Av. Belgrano 456",
+        "email": "valentina.herrera@email.com",
+        "telefonos": {
+            "principal": "1177665544",
+            "emergencia": "1133221100"
+        }
+    },
+    "39384756": {
+        "activo": true,
+        "nombre": "Julián Castro",
+        "direccion": "Av. Pueyrredón 1200",
+        "email": "julian.castro@email.com",
+        "telefonos": {
+            "principal": "1144887766",
+            "emergencia": "1199554433"
+        }
+    },
+    "38472918": {
+        "activo": true,
+        "nombre": "Carla Noemí Torres",
+        "direccion": "Av. Callao 876",
+        "email": "carla.torres@email.com",
+        "telefonos": {
+            "principal": "1122778899",
+            "emergencia": "1166554433"
+        }
+    }
+}

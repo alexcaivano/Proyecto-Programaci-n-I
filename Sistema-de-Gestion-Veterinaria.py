@@ -7,8 +7,6 @@ Autor: Grupo 6
 Descripción:
 Sistema de gestión para ingresar, modificar, eliminar y listar propietarios y mascotas,
 asociar atenciones, calcular estadísticas mensuales/anuales, y generar informes.
-
-Pendientes:
 ----------------------------------------------------------------------------------------------
 """
 
@@ -1236,4 +1234,5 @@ def main():
             input("\nPresione ENTER para continuar...")
 
 # Punto de entrada al programa
+
 main()
